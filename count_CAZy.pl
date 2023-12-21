@@ -6,7 +6,7 @@ use Getopt::Long qw(GetOptions);
 
 ## Usage definition
 my $usage = "\nUSAGE = perl count_CAZy.pl [options]\n
-EXAMPLE (simple): count_CAZy.pl -i CAZ.txt";
+EXAMPLE (simple): count_CAZy.pl -i CAZ.txt(from funannotate)";
 my $hint = "Type count_CAZy.pl -h (--help) for list of options\n";
 die "$usage\n$hint\n" unless@ARGV;
 
