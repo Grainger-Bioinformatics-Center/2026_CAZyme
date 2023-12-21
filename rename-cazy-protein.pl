@@ -4,6 +4,8 @@ use strict;
 use warnings;
 use Getopt::Long qw(GetOptions);
 
+##add the funannotate name to the extract gene name
+
 ## Usage definition
 my $usage = "\nUSAGE = perl rename-cazy-protein.pl [options]\n
 EXAMPLE (simple): rename-cazy-protein.pl -i *.fa";
