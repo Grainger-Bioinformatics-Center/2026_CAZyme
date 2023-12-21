@@ -7,7 +7,7 @@ use Sort::Naturally;
 
 ## Usage definition
 my $usage = "\nUSAGE = perl cal_CAZy.pl [options]\n
-EXAMPLE (simple): cal_CAZy.pl -i *CAZ.txt -l cazy.list";
+EXAMPLE (simple): cal_CAZy.pl -i *CAZ.txt (from funannotate) -l cazy.list";
 my $hint = "Type cal_CAZy.pl -h (--help) for list of options\n";
 die "$usage\n$hint\n" unless@ARGV;
 
