@@ -5,6 +5,8 @@ use warnings;
 use Getopt::Long qw(GetOptions);
 use Sort::Naturally;
 
+##create a cazy.list shows all aviliable CAZym
+
 ## Usage definition
 my $usage = "\nUSAGE = perl list_CAZy.pl [options]\n
 EXAMPLE (simple): list_CAZy.pl -i *CAZ.txt";
