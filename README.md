@@ -1,2 +1,2 @@
-# Publication_scripts
-This repository contains scripts from published or submitted manuscripts.
+# 2023_CAZyme
+Genomic evidence for persisting saprotrophy in two lineages of primarily tropical lichenized fungi
