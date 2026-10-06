@@ -1,0 +1,97 @@
+Name	Species	Class	Order	Lifestyle	Photobiont	Source	Material_source	Accession	BioProject	Assembly_name	In_comparative_analyses
+Acarospora_aff._strigata_GCA_964256185.1	Acarospora aff. strigata	Lecanoromycetes	Acarosporales	lichen	Trebouxia	metagenome	Metagenome-assembled (MAG)	GCA_964256185.1	PRJEB77567	private_T1882_concoct_bin.24	yes
+Acarospora_socialis_GCA_025617375.2	Acarospora socialis	Lecanoromycetes	Acarosporales	lichen	Trebouxia	metagenome	Lichen thallus (metagenome)	GCA_025617375.2	PRJNA851476	glAcaSoci1.1	yes
+Acarospora_sp._Tripp_6053_NY-2858381_GCA_964255005.1	Acarospora sp. Tripp_6053_NY-2858381	Lecanoromycetes	Acarosporales	lichen	Trebouxia	metagenome	Metagenome-assembled (MAG)	GCA_964255005.1	PRJEB77567	public_SRR14722090_metabat2_bin.14	yes
+Pleopsidium_flavum_GCA_026027315.1	Pleopsidium flavum	Lecanoromycetes	Acarosporales	lichen	Trebouxia	metagenome	Metagenome-assembled (MAG)	GCA_026027315.1	PRJNA833438	ASM2602731v1	yes
+Trapelia_coarctata_GCA_022813945.1	Trapelia coarctata	Lecanoromycetes	Baeomycetales	lichen	Pseudochlorella	culture	Axenic culture (Resl et al. 2022)	GCA_022813945.1	PRJNA795879	ASM2281394v1	yes
+Physcia_stellaris_GCA_018902385.1	Physcia stellaris	Lecanoromycetes	Caliciales	lichen	Trebouxia	culture	Pure culture	GCA_018902385.1	PRJNA609569	ASM1890238v1	yes
+Gyalecta_farlowii_GCA_964256515.1	Gyalecta farlowii	Lecanoromycetes	Gyalectales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964256515.1	PRJEB77567	public_SRR14721983_metabat2_bin.1	yes
+Cetradonia_linearis_GCA_003521265.1	Cetradonia linearis	Lecanoromycetes	Lecanorales	lichen	Asterochloris	culture	Pure culture	GCA_003521265.1	PRJNA475321	NYBG_CetLin_1.0	yes
+Cladonia_grayi_GCA_964255175.1	Cladonia grayi	Lecanoromycetes	Lecanorales	lichen	Asterochloris	metagenome	Metagenome-assembled (MAG)	GCA_964255175.1	PRJEB77567	public_SRR14722119_metabat2_bin.2	yes
+Cladonia_macilenta_GCA_000444155.1	Cladonia macilenta KoLRI003786	Lecanoromycetes	Lecanorales	lichen	Asterochloris	culture	Pure culture	GCA_000444155.1	PRJNA210603	Clmac_v1	yes
+Cladonia_metacorallifera_GCA_000482085.2	Cladonia metacorallifera KoLRI002260	Lecanoromycetes	Lecanorales	lichen	Asterochloris	culture	Pure culture	GCA_000482085.2	PRJNA219240	C_metacorallifera_KoLRI002260_v2	yes
+Cladonia_uncialis_GCA_002927785.1	Cladonia uncialis	Lecanoromycetes	Lecanorales	lichen	Asterochloris	culture	Pure culture	GCA_002927785.1	PRJNA348097	ASM292778v1	yes
+Evernia_prunastri_GCA_003184365.1	Evernia prunastri	Lecanoromycetes	Lecanorales	lichen	Trebouxia	culture	Pure culture	GCA_003184365.1	PRJNA393286	ASM318436v1	yes
+Niebla_homalea_GCA_019925105.1	Niebla homalea	Lecanoromycetes	Lecanorales	lichen	Trebouxia	culture	Pure culture	GCA_019925105.1	PRJNA707213	ASM1992510v1	yes
+Pseudevernia_furfuracea_GCA_003184345.1	Pseudevernia furfuracea	Lecanoromycetes	Lecanorales	lichen	Trebouxia	culture	Pure culture	GCA_003184345.1	PRJNA393286	ASM318434v1	yes
+Ramalina_intermedia_GCA_003073195.1	Ramalina intermedia	Lecanoromycetes	Lecanorales	lichen	Trebouxia	culture	Pure culture	GCA_003073195.1	PRJNA416400	RamPxa02_v1.0	yes
+Ramalina_peruviana_GCA_001956345.1	Ramalina peruviana	Lecanoromycetes	Lecanorales	lichen	Trebouxia	culture	Pure culture	GCA_001956345.1	PRJNA358650	RamPxa01_v1	yes
+Stereocaulon_virgatum_GCA_042464655.1	Stereocaulon virgatum	Lecanoromycetes	Lecanorales	lichen	Asterochloris	culture	Pure culture	GCA_042464655.1	PRJNA1119491	ASM4246465v1	yes
+Acanthothecis_fontana_GCA_964256675.1	Acanthothecis fontana	Lecanoromycetes	Graphidales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964256675.1	PRJEB77567	public_SRR14721923_metabat2_bin.2	yes
+Diploschistes_diacapsis_GCA_023645945.1	Diploschistes diacapsis	Lecanoromycetes	Graphidales	lichen	Trebouxia	metagenome	Metagenome-assembled (MAG)	GCA_023645945.1	PRJNA783777	KEW_Ddia	yes
+Fissurina_insidiosa_GCA_964256455.1	Fissurina insidiosa	Lecanoromycetes	Graphidales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964256455.1	PRJEB77567	public_SRR14721973_metabat2_bin.2	yes
+Gomphillus_americanus_GCA_964255845.1	Gomphillus americanus	Lecanoromycetes	Graphidales	lichen	Heveochlorella	metagenome	Metagenome-assembled (MAG)	GCA_964255845.1	PRJEB77567	private_GTX0158_concoct_bin.31	yes
+Gomphillus_calycioides_GCA_964255765.1	Gomphillus calycioides	Lecanoromycetes	Graphidales	lichen	Heveochlorella	metagenome	Metagenome-assembled (MAG)	GCA_964255765.1	PRJEB77567	public_SRR14722181_concoct_bin.15	yes
+Graphis_lineola_GCA_056632675.1	Graphis lineola	Lecanoromycetes	Graphidales	lichen	Trentepohlia	culture	Pure culture	GCA_056632675.1	PRJNA1417694	ASM5663267v1	yes
+Leucodecton_sp_GCA_964257275.1	Leucodecton sp. Tripp_6156_NY-2796959	Lecanoromycetes	Graphidales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964257275.1	PRJEB77567	public_SRR14721970_metabat2_bin.1	yes
+Porina_heterospora_GCA_964256445.1	Porina heterospora	Lecanoromycetes	Gyalectales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964256445.1	PRJEB77567	public_SRR14721971_concoct_merged.0	yes
+Stictis_urceolata_GCA_022814025.1	Stictis urceolata	Lecanoromycetes	Ostropales	lichen	chlorococcoid	metagenome	Metagenome-assembled (MAG)	GCA_022814025.1	PRJNA795879	ASM2281402v1	yes
+Thelotrema_lepadinum_GCA_022813995.1	Thelotrema lepadinum	Lecanoromycetes	Graphidales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_022813995.1	PRJNA795879	ASM2281399v1	yes
+Thelotrema_subtile_GCA_964256685.1	Thelotrema subtile	Lecanoromycetes	Graphidales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964256685.1	PRJEB77567	public_SRR14721932_concoct_bin.34	yes
+Lobaria_pulmonaria_GCA_964257085.1	Lobaria pulmonaria	Lecanoromycetes	Peltigerales	lichen	Symbiochloris	metagenome	Metagenome-assembled (MAG)	GCA_964257085.1	PRJEB77567	public_ERR4179390_metabat2_bin.28	yes
+Loxospora_ochrophaea_GCA_022814175.1	Loxospora ochrophaea	Lecanoromycetes	Sarrameanales	lichen	Trebouxia	culture	Axenic culture (Resl et al. 2022)	GCA_022814175.1	PRJNA795879	ASM2281417v1	yes
+Gyalolechia_flavorubescens_GCA_000442125.1	Opeltia flavorubescens	Lecanoromycetes	Teloschistales	lichen	Trebouxia	culture	Pure culture	GCA_000442125.1	PRJNA210248	Cafla_v1	yes
+Lasallia_hispanica_GCA_003254425.1	Umbilicaria hispanica	Lecanoromycetes	Umbilicariales	lichen	Trebouxia	culture	Pure culture	GCA_003254425.1	PRJNA427161	ASM325442v1	yes
+Umbilicaria_muehlenbergii_GCA_000611775.1	Umbilicaria muhlenbergii	Lecanoromycetes	Umbilicariales	lichen	Trebouxia	culture	Pure culture	GCA_000611775.1	PRJNA239196	Umbmu1.0	yes
+Capronia_coronata_GCA_000585585.1	Capronia coronata CBS 617.96	Eurotiomycetes	Chaetothyriales	plant-saprotroph	None	culture	Pure culture	GCA_000585585.1	PRJNA164585	Capr_coro_CBS_617_96_V1	yes
+Capronia_epimyces_GCA_000585565.1	Capronia epimyces CBS 606.96	Eurotiomycetes	Chaetothyriales	plant-saprotroph	None	culture	Pure culture	GCA_000585565.1	PRJNA164587	Capr_epim_CBS_606_96_V1	yes
+Cladophialophora_carrionii_GCA_000365165.2	Cladophialophora carrionii CBS 160.54	Eurotiomycetes	Chaetothyriales	animal-pathogen	None	culture	Pure culture	GCA_000365165.2	PRJNA185784	Clad_carr_CBS_160_54_V1	yes
+Cladophialophora_psammophila_GCA_000585535.1	Cladophialophora psammophila CBS 110553	Eurotiomycetes	Chaetothyriales	rock-saprotroph	None	culture	Pure culture	GCA_000585535.1	PRJNA164589	Clad_psam_CBS_110553_V1	yes
+Exophiala_sideris_GCA_000835395.1	Exophiala sideris	Eurotiomycetes	Chaetothyriales	rock-saprotroph	None	culture	Pure culture	GCA_000835395.1	PRJNA325799	Exop_side_CBS121828_V1	yes
+Fonsecaea_erecta_GCA_001651985.1	Fonsecaea erecta	Eurotiomycetes	Chaetothyriales	plant-saprotroph	None	culture	Pure culture	GCA_001651985.1	PRJNA312449	ASM165198v1	yes
+Knufia_petricola_GCA_002319055.1	Knufia petricola	Eurotiomycetes	Chaetothyriales	rock-saprotroph	None	culture	Pure culture	GCA_002319055.1	PRJNA393270	ASM231905v1	yes
+Phialophora_attae_GCA_001299255.1	Cyphellophora attinorum	Eurotiomycetes	Chaetothyriales	insect-associated	None	culture	Pure culture	GCA_001299255.1	PRJNA286118	ASM129925v1	yes
+Monascus_purpureus_GCA_003184285.1	Monascus purpureus	Eurotiomycetes	Eurotiales	plant-saprotroph	None	culture	Pure culture	GCA_003184285.1	PRJNA453427	ASM318428v1	yes
+Penicillium_chrysogenum_GCA_000710275.1	Penicillium chrysogenum	Eurotiomycetes	Eurotiales	plant-saprotroph	None	culture	Pure culture	GCA_000710275.1	PRJNA246057	ASM71027v1	yes
+Talaromyces_cellulolyticus_GCA_000829775.1	Talaromyces cellulolyticus	Eurotiomycetes	Eurotiales	plant-saprotroph	None	culture	Pure culture	GCA_000829775.1	PRJDB3250	TcelY94_1.0	yes
+Thermoascus_crustaceus_GCA_001599835.1	Thermoascus crustaceus	Eurotiomycetes	Eurotiales	plant-saprotroph	None	culture	Pure culture	GCA_001599835.1	PRJDB3664	JCM_12817_assembly_v001	yes
+Helicocarpus_griseus_GCA_002573585.1	Helicocarpus griseus UAMH5409	Eurotiomycetes	Onygenales	animal-saprotroph	None	culture	Pure culture	GCA_002573585.1	PRJNA234735	Heli_gris_5409_V1	yes
+Malbranchea_cinnamomea_GCA_900128795.2	Malbranchea cinnamomea	Eurotiomycetes	Onygenales	plant-saprotroph	None	culture	Pure culture	GCA_900128795.2	PRJEB16328	FCH_10_5	yes
+Onygena_corvina_GCA_000812245.1	Onygena corvina	Eurotiomycetes	Onygenales	animal-saprotroph	None	culture	Pure culture	GCA_000812245.1	PRJNA270018	ASM81224v1	yes
+Uncinocarpus_reesii_GCA_000003515.2	Uncinocarpus reesii 1704	Eurotiomycetes	Onygenales	animal-saprotroph	None	culture	Pure culture	GCA_000003515.2	PRJNA15634	ASM351v2	yes
+Phaeomoniella_chlamydospora_GCA_001006345.1	Phaeomoniella chlamydospora	Eurotiomycetes	Phaeomoniellales	plant-pathogen	None	culture	Pure culture	GCA_001006345.1	PRJNA261774	UCRPA7V1.0	yes
+Pseudophaeomoniella_oleicola_GCA_003868215.1	Pseudophaeomoniella oleicola	Eurotiomycetes	Phaeomoniellales	plant-pathogen	None	culture	Pure culture	GCA_003868215.1	PRJNA486708	ASM386821v1	yes
+Pyrenula_aspistea_GCA_021030945.1	Pyrenula aspistea	Eurotiomycetes	Pyrenulales	lichen	Trentepohlia	culture	Pure culture	GCA_021030945.1	PRJNA714743	ASM2103094v1	yes
+Pyrenula_massariospora_GCA_021030905.1	Pyrenula massariospora	Eurotiomycetes	Pyrenulales	lichen	Trentepohlia	culture	Pure culture	GCA_021030905.1	PRJNA714927	ASM2103090v1	yes
+Pyrenula_ochraceoflavens_GCA_051942085.1	Pyrenula ochraceoflavens	Eurotiomycetes	Pyrenulales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_051942085.1	PRJNA991097	KEW_Pyoc	yes
+Pyrenula_pseudobufonia_GCA_964255335.1	Pyrenula pseudobufonia	Eurotiomycetes	Pyrenulales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964255335.1	PRJEB77567	public_SRR14722061_metabat2_bin.1	yes
+Pyrenula_sp_1_TL2023_GCA_052059035.1	Pyrenula sp. 1 TL-2023	Eurotiomycetes	Pyrenulales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_052059035.1	PRJNA991097	KEW_Pysp1	yes
+Bogoriella_megaspora_GCA_026027345.1	Bogoriella megaspora	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_026027345.1	PRJNA833438	ASM2602734v1	yes
+Dermatocarpon_miniatum_GCA_023184605.1	Dermatocarpon miniatum	Eurotiomycetes	Verrucariales	lichen	Diplosphaera	metagenome	Metagenome-assembled (MAG)	GCA_023184605.1	PRJNA820300	ASM2318460v1	yes
+Endocarpon_pusillum_GCA_000611755.1	Endocarpon pusillum	Eurotiomycetes	Verrucariales	lichen	Diplosphaera	culture	Pure culture	GCA_000611755.1	PRJNA239193	Endpu1.0	yes
+Coniochaeta_ligniaria_GCA_001879275.1	Coniochaeta ligniaria NRRL 30616	Sordariomycetes	Coniochaetales	plant-saprotroph	None	culture	Pure culture	GCA_001879275.1	PRJNA223108	Conlig v1.0	yes
+Coniella_lustricola_GCA_003019895.1	Coniella lustricola	Sordariomycetes	Diaporthales	plant-saprotroph	None	culture	Pure culture	GCA_003019895.1	PRJNA334659	Coniella lustricola v1.0	yes
+Diaporthe_longicolla_GCA_000800745.1	Diaporthe longicolla	Sordariomycetes	Diaporthales	plant-pathogen	None	culture	Pure culture	GCA_000800745.1	PRJNA174445	ASM80074v1	yes
+Colletotrichum_graminicola_GCA_000149035.1	Colletotrichum graminicola M1.001	Sordariomycetes	Glomerellales	plant-pathogen	None	culture	Pure culture	GCA_000149035.1	PRJNA37879	C_graminicola_M1_001_V1	yes
+Verticillium_dahliae_GCA_000150675.2	Verticillium dahliae VdLs.17	Sordariomycetes	Glomerellales	plant-pathogen	None	culture	Pure culture	GCA_000150675.2	PRJNA28529	ASM15067v2	yes
+Epichloe_typhina_GCA_000308955.1	Epichloe typhina E8	Sordariomycetes	Hypocreales	plant-endophyte	None	culture	Pure culture	GCA_000308955.1	PRJNA174036	ETyphina 1.0	yes
+Fusarium_oxysporum_GCA_000149955.2	Fusarium oxysporum f. sp. lycopersici 4287	Sordariomycetes	Hypocreales	plant-pathogen	None	culture	Pure culture	GCA_000149955.2	PRJNA18813	ASM14995v2	yes
+Trichoderma_reesei_GCA_000167675.2	Trichoderma reesei QM6a	Sordariomycetes	Hypocreales	plant-saprotroph	None	culture	Pure culture	GCA_000167675.2	PRJNA15571	v2.0	yes
+Magnaporthe_grisea_GCA_002871045.1	Pyricularia grisea W97-11	Sordariomycetes	Magnaporthales	plant-pathogen	None	culture	Pure culture	GCA_002871045.1	PRJNA181181	ASM287104v1	yes
+Ceratocystis_platani_GCA_000978885.1	Ceratocystis platani	Sordariomycetes	Microascales	plant-pathogen	None	culture	Pure culture	GCA_000978885.1	PRJNA278456	ASM97888v1	yes
+Thielaviopsis_musarum_GCA_001513885.1	Thielaviopsis musarum	Sordariomycetes	Microascales	plant-pathogen	None	culture	Pure culture	GCA_001513885.1	PRJNA296851	ASM151388v1	yes
+Podospora_anserina_GCA_000226545.1	Podospora anserina S mat+	Sordariomycetes	Sordariales	animal-saprotroph	None	culture	Pure culture	GCA_000226545.1	PRJNA12954	ASM22654v1	yes
+Sordaria_macrospora_GCA_000182805.2	Sordaria macrospora k-hell	Sordariomycetes	Sordariales	animal-saprotroph	None	culture	Pure culture	GCA_000182805.2	PRJNA39253	ASM18280v2	yes
+Hypoxylon_pulicicidum_GCA_002775035.1	Hypoxylon pulicicidum	Sordariomycetes	Xylariales	plant-endophyte	None	culture	Pure culture	GCA_002775035.1	PRJNA413306	ASM277503v1	yes
+Xylaria_grammica_GCA_004353285.2	Xylaria grammica	Sordariomycetes	Xylariales	plant-saprotroph	None	culture	Pure culture	GCA_004353285.2	PRJNA368785	ASM435328v2	yes
+Erysiphe_necator_GCA_000798715.1	Erysiphe necator	Leotiomycetes	Erysiphales	plant-pathogen	None	culture	Pure culture	GCA_000798715.1	PRJNA247407	ASM79871v1	yes
+Botrytis_cinerea_GCA_000143535.4	Botrytis cinerea B05.10	Leotiomycetes	Helotiales	plant-pathogen	None	culture	Pure culture	GCA_000143535.4	PRJNA15632	ASM14353v4	yes
+Phyllosticta_citricarpa_GCA_001604955.1	Phyllosticta citricarpa	Dothideomycetes	Botryosphaeriales	plant-pathogen	None	culture	Pure culture	GCA_001604955.1	PRJNA301361	ASM160495v1	yes
+Aureobasidium_pullulans_GCA_000721785.1	Aureobasidium pullulans EXF-150	Dothideomycetes	Dothideales	plant-endophyte	None	culture	Pure culture	GCA_000721785.1	PRJNA207874	Aureobasidium pullulans var. pullulans EXF-150, assembly version 1.0	yes
+Aeminium_ludgeri_GCA_004216415.1	Aeminium ludgeri	Dothideomycetes	Mycosphaerellales	rock-saprotroph	None	culture	Pure culture	GCA_004216415.1	PRJNA520871	S18-22	yes
+Baudoinia_panamericana_GCA_000338955.1	Baudoinia panamericana UAMH 10762	Dothideomycetes	Capnodiales	rock-saprotroph	None	culture	Pure culture	GCA_000338955.1	PRJNA53579	Bauco1	yes
+Zasmidium_cellare_GCA_010093935.1	Zasmidium cellare ATCC 36951	Dothideomycetes	Mycosphaerellales	rock-saprotroph	None	culture	Pure culture	GCA_010093935.1	PRJNA207845	Zasce1	yes
+Astrothelium_macrocarpum_GCA_021030915.1	Astrothelium macrocarpum	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	culture	Pure culture	GCA_021030915.1	PRJNA714050	ASM2103091v1	yes
+Astrothelium_subdiscretum_GCA_021030935.1	Astrothelium subdiscretum	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	culture	Pure culture	GCA_021030935.1	PRJNA714742	ASM2103093v1	yes
+Bathelium_albidoporum_GCA_021031095.1	Bathelium albidoporum	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	culture	Pure culture	GCA_021031095.1	PRJNA714674	ASM2103109v1	yes
+Dictyomeridium_proponens_GCA_964254665.1	Dictyomeridium proponens	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964254665.1	PRJEB77567	public_SRR14722280_metabat2_bin.4	yes
+Trypethelium_eluteriae_GCA_021030925.1	Trypethelium eluteriae	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	culture	Pure culture	GCA_021030925.1	PRJNA714959	ASM2103092v1	yes
+Trypethelium_subeluteriae_GCA_051942145.1	Trypethelium subeluteriae	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_051942145.1	PRJNA991097	KEW_Trsu	yes
+Viridothelium_virens_GCA_964256845.1	Viridothelium virens	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_964256845.1	PRJEB77567	public_SRR14722281_metabat2_bin.1	yes
+Alyxoria_varia_GCA_026054675.1	Alyxoria varia	Arthoniomycetes	Arthoniales	lichen	Trentepohlia	metagenome	Metagenome-assembled (MAG)	GCA_026054675.1	PRJNA833438	ASM2605467v1	yes
+Arthonia_radiata_GCA_002989075.1	Arthonia radiata EZ20314	Arthoniomycetes	Arthoniales	lichen	Trentepohlia	culture	Pure culture (single-spore)	GCA_002989075.1	PRJNA432823	artRad1.0	yes
+Cyanodermella_asteris_GCA_900618795.1	Cyanodermella asteris	Lecanoromycetes	Ostropales	plant-endophyte	None	culture	Axenic culture	GCA_900618795.1	PRJEB19487	Astra	yes
+Fitzroyomyces_cyperi_CBS143170	Fitzroyomyces cyperi	Lecanoromycetes	Ostropales	plant-saprotroph	None	culture	Axenic culture (mycelium on malt extract agar)	N/A (JGI MycoCosm; no GenBank assembly)	PRJNA1080997	Fitzroyomyces cyperi CBS 143170 Standard Draft	yes
+Agyrium_rufum_GCA_022814335.1	Agyrium rufum	Lecanoromycetes	Agyriales	plant-saprotroph	None	culture	Axenic culture (Resl et al. 2022)	GCA_022814335.1	PRJNA795879	ASM2281433v1	yes
+Aureobasidium_pullulans_GCA_003336255.1	Aureobasidium pullulans	Dothideomycetes	Dothideales	plant-endophyte	None	culture	Pure culture	GCA_003336255.1			no (second strain; supermatrix tree only)
+Trypethelium_eluteriae_GCA_051942245.1	Trypethelium eluteriae	Dothideomycetes	Trypetheliales	lichen	Trentepohlia	culture	Pure culture	GCA_051942245.1			no (second strain; supermatrix tree only)
